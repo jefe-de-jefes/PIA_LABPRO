@@ -1,7 +1,3 @@
-/*ALDO ADRIAN DAVILA GONZALEZ   1994122
-LUIS FERNANDO SEGOBIA           2177529
-ROBERTO SANCHEZ SANTOUYO        2177547*/
-
 #include "nomina.h"
 #include "auxiliares.h"
 #include "misc.h"
