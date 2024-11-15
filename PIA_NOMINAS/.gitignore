@@ -1,0 +1,11 @@
+#Ejecutables#
+*.app
+*.exe
+*_app
+
+#Archivos del Programa#
+*.bin
+
+#Archivos generales#
+.DS_Store
+.vscode
